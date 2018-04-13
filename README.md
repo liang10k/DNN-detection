@@ -30,3 +30,7 @@ if get error: image no found
 try other version of Open CV to match the operate system
 `pip install opencv-python=={}`  {3.1.0.4;3.1.0.5;3.2.0.7;3.2.0.8;3.3.0.9;3.3.0.10;3.3.1.11;3.4.0.12}
 
+---
+there are still have problem in picture reshow 
+---
+
