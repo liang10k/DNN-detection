@@ -11,3 +11,8 @@ error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ 
 ## train Tiny YOLO 1 model with pretrain weights and annotations 
 `python flow --model cfg/tiny-yolo-voc-fs-1c.cfg --load bin/tiny-yolo-voc.weights --train --annotation annotations --dataset images --gpu 0.7 --epoch 400`
 
+---
+# optimization
+#### 1 
+batch size : 144 
+ angle : 5 
